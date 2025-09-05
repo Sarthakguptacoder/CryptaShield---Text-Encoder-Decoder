@@ -6,4 +6,4 @@ Installation
 Prerequisites
 
 Python 3.6 or higher
-tkinter (usually comes pre-installed with Python)
+->tkinter (usually comes pre-installed with Python)
