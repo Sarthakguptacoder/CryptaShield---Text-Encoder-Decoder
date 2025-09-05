@@ -5,5 +5,5 @@ A simple GUI application built with Python Tkinter for encoding and decoding tex
 Installation
 Prerequisites
 
-Python 3.6 or higher
-->tkinter (usually comes pre-installed with Python)
+->Python 3.6 or higher
+tkinter (usually comes pre-installed with Python)
